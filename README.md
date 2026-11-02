@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0052cc,00a8ff,192a56&height=220&section=header&text=Jawahar%20Devara&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BSc%20CS%20%26%20AI%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Jawahar Devara Banner" width="100%" />
 
   <a href="https://github.com/jawahardevara17">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00a8ff&center=true&vCenter=true&width=600&lines=BSc+CS+%26+AI+Student+@+Greenwich;Full+Stack+Developer;AI+%26+Chatbot+Automation;Algorithm+Optimization" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00a8ff&center=true&vCenter=true&width=600&lines=BSc+Computer Science+%26+AI+Student+@+Greenwich;Full+Stack+Developer;AI+%26+Chatbot+Automation;Algorithm+Optimization" alt="Typing SVG" />
   </a>
 </div>
 
